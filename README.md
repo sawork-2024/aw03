@@ -11,11 +11,11 @@ To run
 mvn clean spring-boot:run
 ```
 
-Currently, it just lists the products for sale with a cart with one item (just for demonstration). 
+Currently, it just lists the products for sale with a cart with one item (just for demonstration).
 
-Please read the tutorial at  https://www.baeldung.com/spring-boot-crud-thymeleaf and make the POS system robust and fully functional. You can also refer to other articles, for instance https://www.baeldung.com/tag/thymeleaf/ .
+Based on the code provided, please complete this assignment:
 
-
-
-And please elaborate your understanding in MVC architecture via this homework in your README.md.
+- Read the tutorial at  https://www.baeldung.com/spring-boot-crud-thymeleaf or https://www.baeldung.com/tag/thymeleaf/ and make the POS system robust and functional.
+- Save data to some database, such as mysql or h2, just like the [petclinic project](https://github.com/spring-petclinic/spring-framework-petclinic).
+- And elaborate your understanding in MVC architecture via this homework in your README.md.
 
